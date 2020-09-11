@@ -11,7 +11,7 @@ User can insert a todo record with a sample schema like:
 - Once a data is created with a duration, it will be automatically deleted after the assigned duration. 
 
 Day 1
-_________________________________________________________________________________________________________________________________________________________________________
+
 
 ->Initiated the project with node.js and build the sever for the backend part.
 ->Installed all library, and experimented with the different features of it.
@@ -20,7 +20,8 @@ ________________________________________________________________________________
 
 
 Day 2
-_____________________________________________________________________________________________________________________________________________________________________________
+
+
 ->Created a layout of the frontend part using ejs features.
 ->Joined the backend and frontend with each other.
 ->Tried to implement the all the  concept of node.js and js as per my capabilities.
